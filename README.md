@@ -1,7 +1,7 @@
 # Trade-Domain-Dissertation-Project-HS-8471
 ## Identify the Enablers of Fostering Domestic Electronics Manufacturing Ecosystem
 
-![Project Image](path-to-your-image.png)
+![Project Image](https://github.com/SajalVats/Photo/blob/main/Dissertation_GitHub%20image.jpeg)
 
 ## Overview
 
